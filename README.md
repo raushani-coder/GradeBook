@@ -1,19 +1,13 @@
 # 📚 GradeBook - Student Result Management System
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://your-username.github.io/gradebook)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://my-grade-book.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/your-username/gradebook)
 
 A simple, elegant, and responsive web application for managing student grades and results. Built with pure HTML, CSS, JavaScript, and Bootstrap 5.
 
 ## 🌐 Live Demo
 
-**👉 [View Live Application]()**
-
----
-
-## 📸 Screenshot
-
-![GradeBook Screenshot](screenshot.png)
+**👉 [View Live Application](https://my-grade-book.vercel.app/)**
 
 ---
 
